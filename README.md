@@ -9,8 +9,6 @@ Automatizar flujos de registro y login en una aplicación web, cubriendo escenar
 |----------------------------|-------------------------------------------------------------|
 | `1_Codigo_Fuente/`         | Código Java, `pom.xml`, `testng.xml`, pruebas parametrizadas |
 | `2_Documentacion_Tecnica/` | Documento Word con arquitectura, configuración y diseño     |
-| `3_Evidencias_Ejecucion/`  | Capturas de pantalla y reportes generados por TestNG        |
-| `4_Presentacion_Final/`    | Archivo `.pptx` con la presentación del proyecto            |
 | `5_Repositorio/`           | Archivo `README.txt` con metadatos del repositorio          |
 
 ## 🚀 Cómo ejecutar el proyecto
