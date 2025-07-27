@@ -1,0 +1,6 @@
+userA,passA,success
+userB,passB,error
+userC,wrong,error
+userD,passD,success
+userE,badpass,error
+userF,passF,success
